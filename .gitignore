@@ -161,3 +161,5 @@ cython_debug/
 
 # mlops-zoomcamp data
 data
+*.bin
+*.parquet
