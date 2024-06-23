@@ -1,0 +1,7 @@
+prefect
+joblib
+pyarrow
+psycopg
+pandas
+numpy
+scikit-learn
